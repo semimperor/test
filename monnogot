@@ -1,0 +1,7 @@
+curl -X POST \
+     --url 'https://console.monogoto.io/Auth' \
+     -H 'Content-Type: application/json' \
+     -d '{
+        "UserName": "tanya@getwhizz.com",
+        "Password": "Huesos26"
+        }'
